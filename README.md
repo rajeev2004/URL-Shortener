@@ -8,6 +8,7 @@ This project allows users to shorten long URLs using a simple and intuitive inte
 - [Installation](#installation)
 - [Testing Credentials](#testing-credentials)
 - [Back-end Repository](#back-end-repository)
+- [Demo](#demo)
 
 ## Project Setup
 
@@ -80,3 +81,5 @@ The back-end code can be found here: https://github.com/rajeev2004/URL-Shortener
 ## Demo
 
 You can check out the live website [here](https://rajeev2004.github.io/URL-Shortener/)
+
+![URL-Shortener Screenshot](https://raw.githubusercontent.com/rajeev2004/URL-Shortener/refs/heads/main/src/assets/Screenshot%202025-04-13%20052053.png?raw=true)
